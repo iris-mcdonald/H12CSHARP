@@ -131,7 +131,7 @@ namespace HW12Console
                     WriteTryAgainOrExit();
 
                     ctr++;
-                    if (ctr == 20)//cut off the user afters 15 X
+                    if (ctr == 25)//cut off the user afters 15 X
                         exit = true;
 
                 }
